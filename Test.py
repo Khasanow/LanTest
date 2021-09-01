@@ -2,7 +2,7 @@ print('Hello LANIT')
 print(5*3+25-3/2)
 print(11111*1111111)
 print(11111*1111111)
-a=38
+#a=38
 b=5
 print(a/b)
 print(a//b)#целочисленное деление
