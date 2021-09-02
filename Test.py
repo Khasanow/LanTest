@@ -4,9 +4,7 @@ print(11111*1111111)
 print(11111*1111111)
 #a=38
 b=5
-print(a/b)
-print(a//b)#целочисленное деление
-print(a%b)#получение отсатка
+#
 #print(42/(4+2*(-2)))#ответ ZeroDivisionError: division by zero
 print(2014**14)
 print(-12)
@@ -28,3 +26,4 @@ int(2.99)
 print(int(-1.6))
 print(9**19 - int(float(9**19)))
 print(type(12))#ответ <class 'int'>
+print(10%3)
